@@ -1,38 +1,27 @@
-# Python Template
+# Individual Project 1: IDS 706 Data Engineering Systems
 ---
-This repo is for the mini-project 1 for IDS 706 Data Engineering Systems
-
----
-Using codespaces, this template uses github actions to create a makefile that performs the following:
-* `make install`
-* `make test`
-* `make lint`
-* `make format`
-
-This template also includes:
-* `main.py` and `test_main.py` to confirm the template and github action are performing as expected.
-* dockerfile
-* Various package versions in `requirements.txt`
+Continuous Integration using GitHub Actions of Python Data Science Project
 
 ---
+## Github Actions Perform Install,Format,Lint, and Test!
+* [![install](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/install.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/install.yml)
+* [![format](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml)
+* [![lint](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml)
+* [![test](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/test.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/test.yml)
 
-This make file will be used in future projects for this class and personal projects. 
+/LGrella/LGrella-IndividualProject1/.github/workflows/format.yml
+---
+
+## Project Structure:
+
+1. Jupyter Notebook with Descriptive Statistics using Pandas and testing by nbval plugin
+2. Python Script performing the same Descriptive Statistics
+3. lib.py that shares the common code
+4. Makefile that runs all tests, formats with python black, lints with Ruff, and installs libraries
+5. Two test scripts: test_script.py
+6. Requirements.txt that lists the the packages for use
+7. Github actions that perform the four makefile functions
 
 ---
 
-How to Use:
-
-1. Open Codespaces, allow for the environmenet to be set up
-2. Run the make commands: install, format, lint, test
-
-Example Results:
-
-`make format`:
-
-![My Image](Make_Format_Success.png)
-
-`make lint`:
-![My Image](Make_Lint_Success.png)
-
-`make test`:
-![My Image](Make_Test_Success.png)
+## Demo:
