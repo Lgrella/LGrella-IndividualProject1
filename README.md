@@ -3,7 +3,7 @@
 Continuous Integration using GitHub Actions of Python Data Science Project
 
 ---
-## Github Actions Perform Install,Format,Lint, and Test!
+## Github Actions: Install, Format, Lint, and Test!
 * [![install](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/install.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/install.yml)
 * [![format](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml)
 * [![lint](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml)
