@@ -8,8 +8,6 @@ Continuous Integration using GitHub Actions of Python Data Science Project
 * [![format](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/format.yml)
 * [![lint](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/lint.yml)
 * [![test](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/test.yml/badge.svg)](https://github.com/LGrella/LGrella-IndividualProject1/actions/workflows/test.yml)
-
-/LGrella/LGrella-IndividualProject1/.github/workflows/format.yml
 ---
 
 ## Project Structure:
