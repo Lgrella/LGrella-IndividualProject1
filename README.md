@@ -34,7 +34,7 @@ Continuous Integration using GitHub Actions of Python Data Science Project
     * Accuracy of descriptive statistics: 10 points
 
 3. Testing with nbval plugin for pytest (10 points): Correct usage and implementation of the nbval plugin for pytest in the Jupyter Notebook.
-    * See [makefile](makefile.md) for implementation of nbval plugin for pytest in Jupyter Notebook.
+    * See [makefile](makefile) for implementation of nbval plugin for pytest in Jupyter Notebook.
 
 4. Shared code in [lib.py](lib.py) (10 points): The lib.py file correctly shares the common code between the script and notebook.
 
