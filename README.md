@@ -27,7 +27,7 @@ Continuous Integration using GitHub Actions of Python Data Science Project
     * [Jupyter Notebook](Descriptive_Statistics.ipynb): 4 points
     * [Python Script](main.py): 4 points
     * [lib.py](lib.py) file: 4 points
-    * [Makefile](makefile.md): 3 points
+    * [Makefile](makefile): 3 points
 
 2. Content of [Jupyter Notebook](Descriptive_Statistics.ipynb) and [Python Script](main.py) (20 points)
     * Correct and efficient use of Polars or Panda: 10 points
@@ -38,7 +38,7 @@ Continuous Integration using GitHub Actions of Python Data Science Project
 
 4. Shared code in [lib.py](lib.py) (10 points): The lib.py file correctly shares the common code between the script and notebook.
 
-5. [Makefile](makefile.md) Commands (15 points): The Makefile correctly includes and executes all required commands.
+5. [Makefile](makefile) Commands (15 points): The Makefile correctly includes and executes all required commands.
     * Running all tests (notebook, script, lib): 5 points
     * Formatting code with Python black: 5 points
     * Linting code with Ruff: 5 points
