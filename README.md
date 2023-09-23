@@ -50,7 +50,7 @@ Continuous Integration using GitHub Actions of Python Data Science Project
 7. [Requirements.txt](requirements.txt) (5 points): The requirements.txt file is correctly pinned and installed via pip install -r requirements.txt.
 
 8. GitHub Actions (10 points): GitHub Actions correctly performs all Makefile commands and displays badges for each one in the README.md.
-   * [install.yml](install.yml)
+   * [install.yml](.github/workflows/install.yml)
    * [format.yml](formal.yml)
    * [lint.yml](lint.yml)
    * [test.yml](test.yml)
