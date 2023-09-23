@@ -4,7 +4,7 @@ install:
 
 test:
 	python -m pytest -vv --cov=main test_*.py
-	pytest --nbval descriptive_statistics.ipynb
+	pytest --nbval Descriptive_Statistics.ipynb
 format:	
 	black *.py 
 
