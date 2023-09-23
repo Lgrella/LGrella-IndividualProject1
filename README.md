@@ -51,9 +51,9 @@ Continuous Integration using GitHub Actions of Python Data Science Project
 
 8. GitHub Actions (10 points): GitHub Actions correctly performs all Makefile commands and displays badges for each one in the README.md.
    * [install.yml](.github/workflows/install.yml)
-   * [format.yml](formal.yml)
-   * [lint.yml](lint.yml)
-   * [test.yml](test.yml)
+   * [format.yml](.github/workflows/format.yml)
+   * [lint.yml](.github/workflows/lint.yml)
+   * [test.yml](.github/workflows/test.yml)
 
 9. Demo Video (15 points): A 2-5 minute video is included, explaining the project and demonstrating its functionality. The video should be of high quality (both audio and visual), not exceed the given time limit, and be linked in the README via a private or public YouTube link.
     * Clarity of explanation: 5 points
