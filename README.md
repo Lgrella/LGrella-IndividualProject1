@@ -60,7 +60,7 @@ Continuous Integration using GitHub Actions of Python Data Science Project
     * Quality demonstration of the project: 5 points
     * Quality of video and audio: 5 points
       
-## Demo:
+## Youtube Demo Link:
 
 [Individual Project 1 Demo](https://www.youtube.com/watch?v=hSVbEFGh5jw)
 
